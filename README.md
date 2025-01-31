@@ -14,7 +14,7 @@ A minimal Chrome extension that toggles the current webpage between light and da
 ## **Installation**  
 1. **Download or Clone** this repository:  
    ```sh
-   git clone https://github.com/yourusername/theme-toggler.git
+   git clone https://github.com/sourabhvamdevan/toggle-chrome
    ```  
 2. Open **Google Chrome** and go to:  
    ```
