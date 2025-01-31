@@ -1,6 +1,6 @@
-Here's a simple and clear **README.md** file for your GitHub repository:  
 
----
+
+
 
 # **Simple Theme Toggler - Chrome Extension**  
 
